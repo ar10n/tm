@@ -324,7 +324,7 @@
 }
  header.sticky .logo {
      padding: 25px 0;
-     transition: all 0.5s ease 0s;
+     /*transition: all 0.5s ease 0s;*/
 }
  header.sticky .main-menu {
      margin: 25px 0;
@@ -339,7 +339,7 @@
 }
  .logo {
      padding: 37px 0;
-     transition: all 0.5s ease 0s;
+     /*transition: all 0.5s ease 0s;*/
 }
  .main-menu ul {
      list-style: outside none none;

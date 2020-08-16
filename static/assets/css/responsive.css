@@ -1,9 +1,5 @@
 /* Medium Layout: 1280px. */
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .logo-img {
-        width: 30%;
-    }
-
     .main-menu ul li a {
         padding: 0 8px;
     }
@@ -55,11 +51,6 @@
     #mobile-menu .slicknav_btn {
         top: -75px;
     }
-
-    .logo-img {
-        width: 30%;
-    }
-
 
     header.sticky #mobile-menu .slicknav_btn {
         top: -70px;
@@ -130,11 +121,6 @@
     .logo {
         text-align: left;
     }
-
-    .logo-img {
-        width: 30%;
-    }
-
     .hero-content h1 {
         font-size: 20px;
         line-height: 30px;
@@ -244,10 +230,6 @@
 
 /* Wide Mobile Layout: 480px. */
 @media only screen and (min-width: 411px) and (max-width: 767px) {
-    .logo-img {
-        width: 30%;
-    }
-
     .col-to-action-area h2 {
         font-size: 25px;
         font-weight: 400;
@@ -275,10 +257,6 @@
 
 /* small Layout: 390px. */
 @media only screen and (max-width: 390px) {
-    .logo-img {
-        width: 30%;
-    }
-
     .col-to-action-area h2 {
         font-size: 20px;
         margin-bottom: 15px;
