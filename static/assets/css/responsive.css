@@ -95,6 +95,9 @@
      .logo {
          text-align: left;
     }
+     .logo-img {
+         width: 30%;
+     }
      .hero-content h1 {
          font-size: 20px;
          line-height: 30px;
