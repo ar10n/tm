@@ -1,5 +1,9 @@
 /* Medium Layout: 1280px. */
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .logo-img {
+        width: 30%;
+    }
+
     .main-menu ul li a {
         padding: 0 8px;
     }
@@ -51,6 +55,11 @@
     #mobile-menu .slicknav_btn {
         top: -75px;
     }
+
+    .logo-img {
+        width: 30%;
+    }
+
 
     header.sticky #mobile-menu .slicknav_btn {
         top: -70px;
